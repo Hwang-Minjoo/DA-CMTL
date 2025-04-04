@@ -1,6 +1,19 @@
 # DA-CMTL 🧠🕸️🩸🍬
 A domain-agnostic multi-task learning (DA-CMTL) model for generalized glucose level and hypoglycemia event prediction
 
+## 👩‍💻 Author & Affiliation
+
+- **Minjoo Hwang**  
+  M.S. Candidate, Graduate School of Artificial Inteligence
+  Pohang University of Science and Technology (POSTECH)
+  Innovative Medical Solution Laboratory
+  📫 Email: happpyjyu@gmail.com, hwangmj@postech.ac.kr
+
+- **Prof. Sungmin Park** *(Corresponding Author)*  
+  Full Professor, Convergence IT Engineering, IMSLAB at POSTECH
+  📫 Email: sungminpark@postech.ac.kr
+
+
 ## 📁 Repository Structure
 
 ```
@@ -16,6 +29,8 @@ src/                                     # Reusable utility functions and model-
 6_analysis_controlled_result.ipynb       # Controlled result analysis
 7_visualize_prediction_result.ipynb      # Visualization of predictions
 ```
+
+
 
 ## ⚙️ Setup Instructions (Need to prepare datasets for running below source codes)
 ### 1. Clone and Create Environment

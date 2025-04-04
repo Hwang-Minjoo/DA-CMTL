@@ -8,12 +8,11 @@ A domain-agnostic multi-task learning (DA-CMTL) model for generalized glucose le
   Graduate School of Artificial Inteligence\
   Pohang University of Science and Technology (POSTECH)\
   [Innovative Medical Solution Laboratory](https://www.ims-postech.com/)\
-  📫 Email: happpyjyu@gmail.com, hwangmj@postech.ac.kr\
+  📫 Email: happpyjyu@gmail.com, hwangmj@postech.ac.kr
 
 - **Prof. Sungmin Park** *(Corresponding Author)*  
   Full Professor, Convergence IT Engineering, IMSLAB at POSTECH\
-  📫 Email: sungminpark@postech.ac.kr\
-
+  📫 Email: sungminpark@postech.ac.kr
 
 ## 📁 Repository Structure
 ```
